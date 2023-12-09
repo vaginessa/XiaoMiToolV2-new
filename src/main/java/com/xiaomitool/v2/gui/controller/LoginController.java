@@ -10,7 +10,7 @@ import com.xiaomitool.v2.language.LRes;
 import com.xiaomitool.v2.logging.Log;
 import com.xiaomitool.v2.utility.WaitSemaphore;
 import com.xiaomitool.v2.xiaomi.XiaomiKeystore;
-import java.net.java.net.CookieHandler;
+import java.net.CookieHandler;
 import java.net.URI;
 import java.util.Locale;
 import javafx.application.Platform;
