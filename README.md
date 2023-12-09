@@ -10,7 +10,7 @@ This is a fork of the source code of the Xiaomi modding tool XiaomiTool V2 (www.
 
 This fork of XiaoMiTool V2 - WORKS (Tested on a real device)
 
-Check this [wiki](https://github.com/tkapias/XiaoMiToolV2/wiki/Unlock-Bootloader-on-any-Xiaomi-Phones).
+Read this [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader).
 
 ### Building and Running 
 
