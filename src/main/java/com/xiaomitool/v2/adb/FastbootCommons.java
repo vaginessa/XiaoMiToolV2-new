@@ -73,6 +73,15 @@ public class FastbootCommons {
     return command_list("devices");
   }
 
+  public static String getUnlockToken(String device) {
+    String token = getvar("token", device);
+    if (token != null) {
+      return token;
+    } else {
+      return oemGetToken(device);
+    }
+  }
+
   public static List<String> getvars(String device) {
     FastbootRunner runner = command_fast("getvar all", device, DEFAULT_TIMEOUT);
     if (runner == null) {
