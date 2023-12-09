@@ -8,7 +8,7 @@ This is a fork of the source code of the Xiaomi modding tool XiaomiTool V2 (www.
 
 ### Unlock BootLoader
 
-This fork of XiaoMiTool V2 - WORKS (Tested on a real device)
+This fork of XiaoMiTool V2 - WORKS (Tested on a real device - 09.12.2023)
 
 Read [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader).
 
