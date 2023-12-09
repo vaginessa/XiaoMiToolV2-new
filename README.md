@@ -10,13 +10,13 @@ This is a fork of the source code of the Xiaomi modding tool XiaomiTool V2 (www.
 
 This fork of XiaoMiTool V2 - WORKS (Tested on a real device)
 
-Read this [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader).
+Read [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader).
 
 ### Building and Running 
 
 1. Install dependencies (Fedora):
 ```sh
-sudo dnf install java-11-openjdk git android-tools
+sudo dnf install java-11-openjdk git
 ```
 2. Clone this branch:
 ```sh
