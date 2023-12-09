@@ -29,6 +29,7 @@ git clone -b main --single-branch --depth 1 https://github.com/topminipie/XiaoMi
 ```sh
 ./gradlew run
 ```
+5. Ignore update notifications.
 
 #### Bundling and distributing
 
