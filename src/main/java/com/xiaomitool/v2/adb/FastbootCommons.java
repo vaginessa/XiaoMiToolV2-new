@@ -104,6 +104,17 @@ public class FastbootCommons {
     return AdbUtils.parseFastbootVar(var, runner.getOutputString());
   }
 
+  public static String oemGetToken(String device) {
+    FastbootRunner runner = command_fast("oem get_token", device, DEFAULT_TIMEOUT);
+    if (runner == null) {
+      return null;
+    }
+    if (runner.getExitValue() != 0) {
+      return "";
+    }
+    return AdbUtils.parseOemToken(runner.getOutputString());
+  }
+
   public static List<String> oemDeviceInfo(String device) {
     return command_list("oem device-info", device);
   }
