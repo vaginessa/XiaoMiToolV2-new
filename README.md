@@ -14,7 +14,7 @@ Check this [wiki](https://github.com/tkapias/XiaoMiToolV2/wiki/Unlock-Bootloader
 
 1. Install dependencies (Fedora):
 ```sh
-sudo dnf install java-17-openjdk openjfx git android-tools
+sudo dnf install java-11-openjdk openjfx git android-tools
 ```
 2. Clone this branch:
 ```sh
