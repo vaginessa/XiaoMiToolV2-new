@@ -1,7 +1,6 @@
 ## XiaomiToolV2 
-_[Compare](https://github.com/francescotescari/XiaoMiToolV2/compare/refactor/distribution...topminipie:XiaoMiToolV2:main)_
 
-This is a fork of the source code of the Xiaomi modding tool XiaomiTool V2 (www.xiaomitool.com).
+This is a [fork](https://github.com/francescotescari/XiaoMiToolV2/compare/refactor/distribution...topminipie:XiaoMiToolV2:main) of the source code of the Xiaomi modding tool XiaomiTool V2 (www.xiaomitool.com).
 
 ### State of the project
   - The original repo is abandoned and it needed a small correction to make it run on linux.
