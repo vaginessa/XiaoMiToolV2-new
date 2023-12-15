@@ -16,18 +16,19 @@ Read [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader).
 
 1. Install dependencies:
 
-#### Fedora
-```sh
-sudo dnf install java-11-openjdk git
-```
 #### Ubuntu
 ```sh
 sudo apt install openjdk-11-jdk git
 ```
 
-2. Clone this branch:
+#### Fedora
 ```sh
-git clone -b main --single-branch --depth 1 https://github.com/topminipie/XiaoMiToolV2.git && cd XiaoMiToolV2
+sudo dnf install java-11-openjdk git
+```
+
+2. Clone this repo:
+```sh
+git clone https://github.com/topminipie/XiaoMiToolV2.git && cd XiaoMiToolV2
 ```
 3. Build:
 ```sh
