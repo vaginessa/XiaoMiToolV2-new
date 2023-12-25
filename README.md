@@ -1,6 +1,6 @@
-## XiaomiToolV2 
+## XiaomiToolV2 [Fork](https://github.com/francescotescari/XiaoMiToolV2/compare/refactor/distribution...topminipie:XiaoMiToolV2:main)
 
-This is a [fork](https://github.com/francescotescari/XiaoMiToolV2/compare/refactor/distribution...topminipie:XiaoMiToolV2:main) of the source code of the Xiaomi modding tool XiaomiTool V2 (www.xiaomitool.com).
+This is the source code of Xiaomi modding tool XiaomiTool V2.
 
 ### State of the project
   - The original repo is abandoned and it needed a small correction to make it run on linux.
@@ -17,33 +17,29 @@ Read [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader).
 1. Install dependencies:
 
 #### Ubuntu
-```sh
+```
 sudo apt install openjdk-11-jdk git
 ```
 
 #### Fedora
-```sh
+```
 sudo dnf install java-11-openjdk git
 ```
 
 2. Clone this repo:
-```sh
+```
 git clone https://github.com/topminipie/XiaoMiToolV2.git && cd XiaoMiToolV2
 ```
 3. Build:
-```sh
+```
 ./gradlew build
 ```
 
 4. Run:
-```sh
+```
 ./gradlew run
 ```
 5. Ignore update notifications.
-
-#### Bundling and distributing
-
-TODO
 
 ## Credits
 
