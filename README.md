@@ -1,10 +1,9 @@
 ## XiaomiToolV2 [Fork](https://github.com/francescotescari/XiaoMiToolV2/compare/refactor/distribution...topminipie:XiaoMiToolV2:main)
 
-This is the source code of Xiaomi modding tool XiaomiTool V2.
+This is the source code of the Xiaomi bootloader unlocking tool.
 
 ### State of the project
-  - The original repo is abandoned and it needed a small correction to make it run on linux.
-  - The modifications are mainly based on the original [issue 23](https://github.com/francescotescari/XiaoMiToolV2/issues/23).
+  - The original XiaomiToolV2 is abandoned and it needed a small correction to make it run on linux.
 
 ### Unlock BootLoader
 
