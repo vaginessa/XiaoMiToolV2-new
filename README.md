@@ -29,6 +29,7 @@ sudo dnf install java-11-openjdk git
 ```
 git clone https://github.com/topminipie/XiaoMiToolV2.git && cd XiaoMiToolV2
 ```
+
 3. Build:
 ```
 ./gradlew build
@@ -36,8 +37,11 @@ git clone https://github.com/topminipie/XiaoMiToolV2.git && cd XiaoMiToolV2
 
 4. Run:
 ```
+chmod +x ./res/tools/lin/adb
+chmod +x ./res/tools/lin/fastboot
 ./gradlew run
 ```
+
 5. Ignore update notifications.
 
 ## Credits
