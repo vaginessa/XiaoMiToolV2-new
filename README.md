@@ -15,7 +15,7 @@ Read [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader).
 
 ### Building and Running 
 
-1. Install java 17:
+1. Install Java 17:
 
 #### Ubuntu
 ```
