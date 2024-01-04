@@ -24,7 +24,7 @@ sudo apt install openjdk-17-jdk git
 
 #### Fedora
 ```
-sudo dnf install java-17-openjdk git
+sudo dnf install java-17-openjdk-devel git
 ```
 
 2. Clone this repo:
