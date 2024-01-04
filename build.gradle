@@ -5,7 +5,7 @@ plugins {
     id 'org.openjfx.javafxplugin' version '0.0.13'
     //id 'com.github.sherter.google-java-format' version '0.9'
     id "com.github.johnrengelman.shadow" version "8.1.1"
-    id 'org.beryx.runtime' version '1.12.6'
+    id 'org.beryx.runtime' version '1.13.0'
 }
 ext {
     XMT_VERSION = "21.10.10"
