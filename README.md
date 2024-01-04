@@ -7,22 +7,22 @@ This is the source code of the Xiaomi bootloader unlocking tool.
 
 ### Unlock BootLoader
 
-This fork of XiaoMiTool V2 - WORKS (Tested on a real device - 09.12.2023)
+This fork of XiaoMiTool V2 - [WORKS](https://github.com/topminipie/XiaoMiToolV2/tree/tested) (Tested on a real device - 09.12.2023)
 
 Read [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader).
 
 ### Building and Running 
 
-1. Install dependencies:
+1. Install Java 17 and Git:
 
 #### Ubuntu
 ```
-sudo apt install openjdk-11-jdk git
+sudo apt install openjdk-17-jdk git
 ```
 
 #### Fedora
 ```
-sudo dnf install java-11-openjdk git
+sudo dnf install java-17-openjdk-devel git
 ```
 
 2. Clone this repo:
