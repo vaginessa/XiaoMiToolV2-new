@@ -28,7 +28,6 @@ jobs:
         distribution: 'temurin'
 
     - name: Build with Gradle
-      continue-on-error: true
       run: |
         chmod +x ./gradlew
         ./gradlew build
