@@ -19,12 +19,12 @@ Read [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader).
 
 #### Ubuntu
 ```
-sudo apt install openjdk-11-jdk git
+sudo apt install openjdk-17-jdk git
 ```
 
 #### Fedora
 ```
-sudo dnf install java-11-openjdk git
+sudo dnf install java-17-openjdk git
 ```
 
 2. Clone this repo:
