@@ -27,7 +27,7 @@ sudo dnf install java-17-openjdk-devel git
 
 2. Clone this repo:
 ```
-git clone https://github.com/topminipie/XiaoMiToolV2.git && cd XiaoMiToolV2
+git clone -b tested https://github.com/topminipie/XiaoMiToolV2.git && cd XiaoMiToolV2
 ```
 
 3. Build:
