@@ -1,3 +1,18 @@
+I will not support this project anymore.
+Thank you all for your attention :)
+
+Reasons:
+1. The project is too big and hasn't been updated for a long time.
+2. Works only on pc.
+3. There is a great alternative of ~200 lines of code in Python and working on a phone - [MiTool](https://github.com/offici5l/MiTool) [PC Version](https://github.com/offici5l/un-lock)
+
+I don't see the point of this XiaomiToolV2 fork anymore.
+
+Support starting [offici5l](https://github.com/offici5l) 😉
+
+
+
+
 ## XiaomiToolV2 [Fork](https://github.com/francescotescari/XiaoMiToolV2/compare/refactor/distribution...topminipie:XiaoMiToolV2:main)
 
 [<img alt="CI" src="https://github.com/topminipie/XiaoMiToolV2/actions/workflows/ci.yml/badge.svg">](https://github.com/topminipie/XiaoMiToolV2/actions/workflows/ci.yml)
