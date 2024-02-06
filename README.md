@@ -26,7 +26,7 @@ This is the source code of the Xiaomi bootloader unlocking tool.
 
 This fork of XiaoMiTool V2 - [WORKS](https://github.com/topminipie/XiaoMiToolV2/tree/tested) (Tested on a real device - 09.12.2023)
 
-Read [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader).
+Read [wiki](https://github.com/topminipie/XiaoMiToolV2/wiki).
 
 ### Building and Running 
 
