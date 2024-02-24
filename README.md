@@ -6,7 +6,7 @@ Thank you all for your attention :)
 Reasons:
 1. The project is too big and hasn't been updated for a long time.
 2. Works only on pc.
-3. There is a great alternative of ~200 lines of code in Python and working on a phone - [MiTool](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock?tab=readme-ov-file#mitool), [PC Version](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock?tab=readme-ov-file#mitool)
+3. There is a great alternative of ~200 lines of code in Python and working on Windows, Linux, MacOS, Android - [Mi Tool](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock?tab=readme-ov-file#mitool)
 
 I don't see the point of this XiaomiToolV2 fork anymore.
 
